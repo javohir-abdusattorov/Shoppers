@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "5fa92e782fcd41405f026d2c",
+    "name": {
+      "name_uz": "Telefonlar va aksessuarlar",
+      "name_ru": "Телефоны и аксессуары",
+      "name_en": "Phones and accessuars"
+    }
+  },
+  {
+    "_id": "5fa92e8bece8de6a1c33e391",
+    "name": {
+      "name_uz": "Kompyuterlar",
+      "name_ru": "Компьютеры",
+      "name_en": "Computers"
+    }
+  },
+  {
+    "_id": "5fa92e913b69fc333d8c89de",
+    "name": {
+      "name_uz": "Elektrotexnika",
+      "name_ru": "Электротехника",
+      "name_en": "Electronics"
+    }
+  },
+  {
+    "_id": "5fa92e9ddac90b854806acaa",
+    "name": {
+      "name_uz": "Erkaklar kiyimi",
+      "name_ru": "Одежда для мужчин",
+      "name_en": "Wears for men"
+    }
+  },
+  {
+    "_id": "5fa92ea6ea8acee94c36988d",
+    "name": {
+      "name_uz": "Ayollar kiyimi",
+      "name_ru": "Одежда для женщин",
+      "name_en": "Wears for women"
+    }
+  }
+]

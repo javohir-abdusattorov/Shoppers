@@ -1,0 +1,74 @@
+[
+	{
+    "_id": "56cb91bdc3464f14678934c1",
+    "name": {
+      "name_uz": "iPhone",
+      "name_ru": "iPhone",
+      "name_en": "iPhone"
+    },
+    "parent": "5fa92f3918e318901ca24374"
+  },
+	{
+    "_id": "56cb91bdc3464f14678934c2",
+    "name": {
+      "name_uz": "Samsung",
+      "name_ru": "Samsung",
+      "name_en": "Samsung"
+    },
+    "parent": "5fa92f3918e318901ca24374"
+  },
+	{
+    "_id": "56cb91bdc3464f14678934c3",
+    "name": {
+      "name_uz": "Acer",
+      "name_ru": "Acer",
+      "name_en": "Acer"
+    },
+    "parent": "5fa92f47d7ba5e7c40cde3bc"
+  },
+	{
+    "_id": "56cb91bdc3464f14678934c4",
+    "name": {
+      "name_uz": "Tashqi batareya",
+      "name_ru": "Внешний аккумулятор",
+      "name_en": "Power Bank"
+    },
+    "parent": "5fa92e8bece8de6a1c33e391"
+  },
+	{
+    "_id": "56cb91bdc3464f14678934c5",
+    "name": {
+      "name_uz": "Ekran himoyachilari",
+      "name_ru": "Протектор экрана",
+      "name_en": "Screen Protectors"
+    },
+    "parent": "5fa92e8bece8de6a1c33e391"
+  },
+	{
+    "_id": "56cb91bdc3464f14678934c6",
+    "name": {
+      "name_uz": "Kuzatuv Mahsulotlari",
+      "name_ru": "Системы Видеонаблюдения",
+      "name_en": "Surveillance Products"
+    },
+    "parent": "5fa92e913b69fc333d8c89de"
+  },
+	{
+    "_id": "56cb91bdc3464f14678934c7",
+    "name": {
+      "name_uz": "Kirish Nazorati",
+      "name_ru": "Контроль доступа",
+      "name_en": "Access Control"
+    },
+    "parent": "5fa92e9ddac90b854806acaa"
+  },
+	{
+    "_id": "56cb91bdc3464f14678934c8",
+    "name": {
+      "name_uz": "Pastki ko'ylaklar",
+      "name_ru": "Пуховики",
+      "name_en": "Down Jackets"
+    },
+    "parent": "5fa92f400ca7f0a4147ea7f8"
+  }
+]

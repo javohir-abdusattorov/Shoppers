@@ -1,0 +1,56 @@
+[
+  {
+    "_id": "5fa92f3918e318901ca24374",
+    "name": {
+      "name_uz": "Mobil Telefonlar",
+      "name_ru": "Мобильные телефоны",
+      "name_en": "Mobile Phones"
+    },
+    "parent": "5fa92e782fcd41405f026d2c"
+  },
+  {
+    "_id": "5fa92f400ca7f0a4147ea7f8",
+    "name": {
+      "name_uz": "Quloqchinlar",
+      "name_ru": "Наушники",
+      "name_en": "Headphones"
+    },
+    "parent": "5fa92e782fcd41405f026d2c"
+  },
+  {
+    "_id": "5fa92f47d7ba5e7c40cde3bc",
+    "name": {
+      "name_uz": "Noutbuklar",
+      "name_ru": "Ноутбуки",
+      "name_en": "Noutebooks"
+    },
+    "parent": "5fa92e8bece8de6a1c33e391"
+  },
+  {
+    "_id": "5fa92f4e484c8cdf9f368504",
+    "name": {
+      "name_uz": "Aksessuarlar",
+      "name_ru": "Аксессуары",
+      "name_en": "Accessuars"
+    },
+    "parent": "5fa92e8bece8de6a1c33e391"
+  },
+  {
+    "_id": "5fa92f574621718bbdf57ef0",
+    "name": {
+      "name_uz": "Xavfsizlik Va Himoya",
+      "name_ru": "Безопасность и Защита",
+      "name_en": "Security & Protection"
+    },
+    "parent": "5fa92e913b69fc333d8c89de"
+  },
+  {
+    "_id": "5fa92f6121613fa0742849ea",
+    "name": {
+      "name_uz": "Tashqi Kiyim va Ko'ylaklar",
+      "name_ru": "Верхняя Одежда и Куртки",
+      "name_en": "Outerwear & Jackets"
+    },
+    "parent": "5fa92e9ddac90b854806acaa"
+  }
+]

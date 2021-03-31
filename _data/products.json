@@ -1,0 +1,128 @@
+[
+  {
+      "description": {
+          "description_uz": "descr",
+          "description_ru": "ru descot",
+          "description_en": "en_descr"
+      },
+      "category": {
+          "name": {
+              "name_uz": "Pastki ko'ylaklar",
+              "name_ru": "Пуховики",
+              "name_en": "Down Jackets"
+          },
+          "category": "56cb91bdc3464f14678934c8"
+      },
+      "images": [
+          "uploads/photo_15c254d4f767078a01b537f12a651f53.png",
+          "uploads/photo_38c589246e6beec6e827609ab92a77fb.png",
+          "uploads/photo_8aa5cb95374741a80c7cd73a2331fd72.jpeg"
+      ],
+      "isPublish": false,
+      "sizes": [
+          "50"
+      ],
+      "colors": [
+          "red, blue"
+      ],
+      "_id": "5faa315180513314b87ba5a2",
+      "title": "some product",
+      "brand": "some brand",
+      "retailPrice": 100,
+      "retailValute": "uzs",
+      "purchasePrice": 90,
+      "purchaseValute": "uzs",
+      "options": [],
+      "soldBy": "5fa8bbe47c37b436d89da2e1",
+      "quantity": 500,
+      "unit": "kg",
+      "sold": 0,
+      "createdAt": "2020-11-10T06:21:05.646Z",
+      "updatedAt": "2020-11-10T06:21:05.646Z",
+      "__v": 0
+  },
+  {
+      "description": {
+          "description_uz": "descr",
+          "description_ru": "ru descot",
+          "description_en": "en_descr"
+      },
+      "category": {
+          "name": {
+              "name_uz": "Pastki ko'ylaklar",
+              "name_ru": "Пуховики",
+              "name_en": "Down Jackets"
+          },
+          "category": "56cb91bdc3464f14678934c8"
+      },
+      "images": [
+          "uploads/photo_64e5a02890f3097e07990016bef639d6.png",
+          "uploads/photo_aaf40149eef8e9d1b657c0c509106099.png",
+          "uploads/photo_4493f2dc61f669ff422817eca2ff6c2e.png"
+      ],
+      "isPublish": false,
+      "sizes": [
+          "50"
+      ],
+      "colors": [
+          "red, blue"
+      ],
+      "_id": "5faa301c80513314b87ba5a1",
+      "title": "some product",
+      "brand": "some brand",
+      "retailPrice": 100,
+      "retailValute": "uzs",
+      "purchasePrice": 90,
+      "purchaseValute": "uzs",
+      "options": [],
+      "soldBy": "5fa8bbe47c37b436d89da2e1",
+      "quantity": 500,
+      "unit": "kg",
+      "sold": 0,
+      "createdAt": "2020-11-10T06:15:56.830Z",
+      "updatedAt": "2020-11-10T06:15:56.830Z",
+      "__v": 0
+  },
+  {
+      "description": {
+          "description_uz": "descr",
+          "description_ru": "ru descot",
+          "description_en": "en_descr"
+      },
+      "category": {
+          "name": {
+              "name_uz": "Pastki ko'ylaklar",
+              "name_ru": "Пуховики",
+              "name_en": "Down Jackets"
+          },
+          "category": "56cb91bdc3464f14678934c8"
+      },
+      "images": [
+          "uploads/photo_5156dc2747516445e66e0b7f145564da.png",
+          "uploads/photo_aaf40149eef8e9d1b657c0c509106099.png",
+          "uploads/photo_4493f2dc61f669ff422817eca2ff6c2e.png"
+      ],
+      "isPublish": false,
+      "sizes": [
+          "50"
+      ],
+      "colors": [
+          "red, blue"
+      ],
+      "_id": "5faa2d9080513314b87ba5a0",
+      "title": "some product",
+      "brand": "some brand",
+      "retailPrice": 100,
+      "retailValute": "uzs",
+      "purchasePrice": 90,
+      "purchaseValute": "uzs",
+      "options": [],
+      "soldBy": "5fa8bbe47c37b436d89da2e1",
+      "quantity": 500,
+      "unit": "kg",
+      "sold": 0,
+      "createdAt": "2020-11-10T06:05:04.288Z",
+      "updatedAt": "2020-11-10T06:05:04.288Z",
+      "__v": 0
+  }
+]

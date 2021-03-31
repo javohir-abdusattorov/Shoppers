@@ -1,0 +1,63 @@
+[
+  {
+    "_id": "5fa8bbe47c37b436d89da2c1",
+    "email": "customer@mail.com",
+    "name": "Customer",
+    "password": "1234567",
+    "role": "customer"
+  },
+  {
+    "_id": "5fa8bbe47c37b436d89da2c2",
+    "email": "customer2@mail.com",
+    "name": "Customer2",
+    "password": "1234567",
+    "role": "customer"
+  },
+  {
+    "_id": "5fa8bbe47c37b436d89da2e1",
+    "email": "seller@mail.com",
+    "name": "Apple",
+    "password": "1234567",
+    "role": "seller",
+    "shopName": "Apple",
+    "industryType": "Electronics",
+    "shopLocation": "USA"
+  },
+  {
+    "_id": "5fa8bbe47c37b436d89da2e2",
+    "email": "seller2@mail.com",
+    "name": "Gucci",
+    "password": "1234567",
+    "role": "seller",
+    "shopName": "Gucci",
+    "industryType": "Dress",
+    "shopLocation": "Italy"
+  },
+  {
+    "_id": "5fa8bbe47c37b436d89da2e3",
+    "email": "seller3@mail.com",
+    "name": "Tesla",
+    "password": "1234567",
+    "role": "seller",
+    "shopName": "Tesla",
+    "industryType": "Electrocar",
+    "shopLocation": "USA"
+  },
+  {
+    "_id": "5fa8bbe47c37b436d89da2e4",
+    "email": "seller4@mail.com",
+    "name": "Nike",
+    "password": "1234567",
+    "role": "seller",
+    "shopName": "Nike",
+    "industryType": "Dress",
+    "shopLocation": "Italy"
+  },
+  {
+    "_id": "5fa8bbe47c37b436d89da2a1",
+    "email": "admin@mail.com",
+    "name": "Admin",
+    "password": "1234567",
+    "role": "admin"
+  }
+]
